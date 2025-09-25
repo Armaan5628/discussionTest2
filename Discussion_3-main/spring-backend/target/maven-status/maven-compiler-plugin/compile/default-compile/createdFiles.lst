@@ -1,0 +1,9 @@
+com\myapp\discussionboard\model\Post.class
+com\myapp\discussionboard\controller\DiscussionController.class
+com\myapp\discussionboard\service\DiscussionService.class
+com\myapp\discussionboard\config\WebConfig$1.class
+com\myapp\discussionboard\repository\DiscussionRepository.class
+com\myapp\discussionboard\App.class
+com\myapp\discussionboard\config\WebConfig.class
+com\myapp\discussionboard\SpringBackendApplication.class
+com\myapp\discussionboard\model\Discussion.class

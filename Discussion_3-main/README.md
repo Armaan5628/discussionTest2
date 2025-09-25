@@ -1,3 +1,1 @@
--added like and dislike button with custom css inline element
--used transition with like abd dislikes button
--adde counter button with like snd dislike
+I only used ChatGPT for help with small parts like fixing CSS styling (adding gradients), cleaning up the footer/navbar, and some debugging advice when VS Code showed errors.
